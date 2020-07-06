@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Made%20with%20%3C3%20in-python-red.svg)
 
-# Motion- Detector System -OpenCV #
+# Motion- Detector System -OpenCV 
 Python/OpenCV script that detect motion on webcam and allow record it to a file and plot a graph for proper Visualization.
 
-## Description ##
+## Description 
 
 ### The Process  ###
 
