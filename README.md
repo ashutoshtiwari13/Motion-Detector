@@ -26,7 +26,7 @@ in the run method no motion can be detected in the first 5 second because it is 
 ## Run Motion Detector ##
 Clone the repository and run the command `python plotting.py` in the project directory.
 
-#### Scenario 1 ####
+#### Scenario 1
 
 ![alt text](https://github.com/ashutoshtiwari13/Motion-Detector/blob/master/SS1.png)
 
