@@ -30,18 +30,18 @@ Clone the repository and run the command `python plotting.py` in the project dir
 
 ![alt text](https://github.com/ashutoshtiwari13/Motion-Detector/blob/master/SS1.png)
 
-#### Scenario 2(Under motion) ####
+#### Scenario 2(Under motion) 
 
 ![alt text](https://github.com/ashutoshtiwari13/Motion-Detector/blob/master/SS2.png)
 
-## Result ##
+## Result 
 
 ![alt text](https://github.com/ashutoshtiwari13/Motion-Detector/blob/master/SS3.png)
 
-## Plotting ##
+## Plotting
 ![alt text](https://github.com/ashutoshtiwari13/Motion-Detector/blob/master/SS4.png)
 
-## Use case & Future Scope ##
+## Use case & Future Scope 
 * Motion Detector can be used on SBCs such as Raspberry Pi, NanoPi M1, CHIP, ODROID C1/C2/XU4, Pine A64, etc. to create compact smart cameras. 
 * Threading and subprocess based architecture allows consistent FPS while processing frames, writing video files, moving files to remote location, etc. all concurrently.
 * Run multiple copies on a central server for IP based "dumb" cameras.
