@@ -18,12 +18,12 @@ in the run method no motion can be detected in the first 5 second because it is 
 ## Requirements
 
 * X86, X86_64, ARMv7 or ARMv8 version of Ubuntu 16.04 or Debian 8 (will most likely work on other Linux based operating systems as well)
-* Python 3.4 or above 
+* Python 3.5 or above 
 * Camera or Video file
 * [Install OpenCV](https://opencv.org/) or `pip install opencv-python`
 * [Install Bokeh library](https://bokeh.pydata.org/en/latest/) or `pip install bokeh`
 
-## Run Motion Detector
+## Run Motion Detecto5
 Clone the repository and run the command `python plotting.py` in the project directory.
 
 #### Scenario 1
