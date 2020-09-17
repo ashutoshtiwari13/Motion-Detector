@@ -17,7 +17,7 @@ in the run method no motion can be detected in the first 5 second because it is 
 
 ## Requirements
 
-* X86, X86_64, ARMv7 or ARMv8 version of Ubuntu 16.04 or Debian 8 (will most likely work on other Linux based operating systems as well)
+* X86, X86_64, ARMv7 or ARMv8 version of Ubuntu 18.04 or Debian 8 (will most likely work on other Linux based operating systems as well)
 * Python 3.5 or above 
 * Camera or Video file
 * [Install OpenCV](https://opencv.org/) or `pip install opencv-python`
